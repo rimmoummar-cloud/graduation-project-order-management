@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7D75B51-BBA1-4B29-8CE4-92E65ACA517D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>resturent.My.MyApplication</StartupObject>
+    <RootNamespace>resturent</RootNamespace>
+    <AssemblyName>resturent</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>resturent.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>resturent.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1652.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Allmenu.Designer.vb">
+      <DependentUpon>Allmenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Allmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlReport.Designer.vb">
+      <DependentUpon>AlReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendance.Designer.vb">
+      <DependentUpon>attendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="attendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="category.Designer.vb">
+      <DependentUpon>category.vb</DependentUpon>
+    </Compile>
+    <Compile Include="category.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class1.vb" />
+    <Compile Include="Crystal.Designer.vb">
+      <DependentUpon>Crystal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crystal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crystal22.Designer.vb">
+      <DependentUpon>crystal22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="crystal22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport7.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport8.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.vb">
+      <DependentUpon>customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashboard.Designer.vb">
+      <DependentUpon>dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delivery.Designer.vb">
+      <DependentUpon>Delivery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Delivery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drink.Designer.vb">
+      <DependentUpon>drink.vb</DependentUpon>
+    </Compile>
+    <Compile Include="drink.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRepor.Designer.vb">
+      <DependentUpon>EmployeeRepor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRepor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expenrepor.Designer.vb">
+      <DependentUpon>expenrepor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="expenrepor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="food.Designer.vb">
+      <DependentUpon>food.vb</DependentUpon>
+    </Compile>
+    <Compile Include="food.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2.Designer.vb">
+      <DependentUpon>form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formop.Designer.vb">
+      <DependentUpon>Formop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.Designer.vb">
+      <DependentUpon>Information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Item.Designer.vb">
+      <DependentUpon>Item.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Item.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login2.Designer.vb">
+      <DependentUpon>login2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainorder.Designer.vb">
+      <DependentUpon>mainorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mainorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Materails.Designer.vb">
+      <DependentUpon>Materails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Materails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="offer.Designer.vb">
+      <DependentUpon>offer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="offer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orders.Designer.vb">
+      <DependentUpon>orders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="orders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="position.Designer.vb">
+      <DependentUpon>position.vb</DependentUpon>
+    </Compile>
+    <Compile Include="position.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfitRepor.Designer.vb">
+      <DependentUpon>ProfitRepor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProfitRepor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reservation.Designer.vb">
+      <DependentUpon>reservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resevrin.Designer.vb">
+      <DependentUpon>resevrin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resevrin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resturentSqlDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet11.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet21.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="resturentSqlDataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>resturentSqlDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.Designer.vb">
+      <DependentUpon>Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffDVG.Designer.vb">
+      <DependentUpon>StaffDVG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffDVG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffin.Designer.vb">
+      <DependentUpon>staffin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="staffin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.vb">
+      <DependentUpon>Supplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierReport.Designer.vb">
+      <DependentUpon>SupplierReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table.Designer.vb">
+      <DependentUpon>Table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uptable.Designer.vb">
+      <DependentUpon>Uptable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Uptable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uptable2.Designer.vb">
+      <DependentUpon>uptable2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="uptable2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uptable3.Designer.vb">
+      <DependentUpon>uptable3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="uptable3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Allmenu.resx">
+      <DependentUpon>Allmenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlReport.resx">
+      <DependentUpon>AlReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendance.resx">
+      <DependentUpon>attendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="category.resx">
+      <DependentUpon>category.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crystal.resx">
+      <DependentUpon>Crystal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal22.resx">
+      <DependentUpon>crystal22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport8.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport8.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashboard.resx">
+      <DependentUpon>dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery.resx">
+      <DependentUpon>Delivery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drink.resx">
+      <DependentUpon>drink.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRepor.resx">
+      <DependentUpon>EmployeeRepor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expenrepor.resx">
+      <DependentUpon>expenrepor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food.resx">
+      <DependentUpon>food.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2.resx">
+      <DependentUpon>form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formop.resx">
+      <DependentUpon>Formop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item.resx">
+      <DependentUpon>Item.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login2.resx">
+      <DependentUpon>login2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainorder.resx">
+      <DependentUpon>mainorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Materails.resx">
+      <DependentUpon>Materails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="offer.resx">
+      <DependentUpon>offer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orders.resx">
+      <DependentUpon>orders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="position.resx">
+      <DependentUpon>position.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfitRepor.resx">
+      <DependentUpon>ProfitRepor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reservation.resx">
+      <DependentUpon>reservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resevrin.resx">
+      <DependentUpon>resevrin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffDVG.resx">
+      <DependentUpon>StaffDVG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffin.resx">
+      <DependentUpon>staffin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierReport.resx">
+      <DependentUpon>SupplierReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table.resx">
+      <DependentUpon>Table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uptable.resx">
+      <DependentUpon>Uptable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uptable2.resx">
+      <DependentUpon>uptable2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uptable3.resx">
+      <DependentUpon>uptable3.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="README.md" />
+    <None Include="resturentSqlDataSet.xsc">
+      <DependentUpon>resturentSqlDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet.xss">
+      <DependentUpon>resturentSqlDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet11.xsc">
+      <DependentUpon>resturentSqlDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet11.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet11.xss">
+      <DependentUpon>resturentSqlDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet21.xsc">
+      <DependentUpon>resturentSqlDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet21.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet21.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet21.xss">
+      <DependentUpon>resturentSqlDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet3.xsc">
+      <DependentUpon>resturentSqlDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet3.xss">
+      <DependentUpon>resturentSqlDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet4.xsc">
+      <DependentUpon>resturentSqlDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet4.xss">
+      <DependentUpon>resturentSqlDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet5.xsc">
+      <DependentUpon>resturentSqlDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet5.xss">
+      <DependentUpon>resturentSqlDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet6.xsc">
+      <DependentUpon>resturentSqlDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet6.xss">
+      <DependentUpon>resturentSqlDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet7.xsc">
+      <DependentUpon>resturentSqlDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="resturentSqlDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>resturentSqlDataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="resturentSqlDataSet7.xss">
+      <DependentUpon>resturentSqlDataSet7.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

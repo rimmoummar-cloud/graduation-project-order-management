@@ -1,0 +1,715 @@
+C:\projectVb\Vb\resturent\resturent\bin\Debug\resturent.exe.config
+C:\projectVb\Vb\resturent\resturent\bin\Debug\resturent.exe
+C:\projectVb\Vb\resturent\resturent\bin\Debug\resturent.pdb
+C:\projectVb\Vb\resturent\resturent\bin\Debug\resturent.xml
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.vbproj.AssemblyReference.cache
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Form1.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.form2.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.login2.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Resources.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.vbproj.GenerateResource.cache
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.vbproj.CoreCompileInputs.cache
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.exe
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.xml
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.pdb
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.attendance.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.customer.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.drink.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.food.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Formop.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.position.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.reservation.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.resevrin.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Staff.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.staffin.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Form3.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Item.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.category.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.offer.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.orders.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Table.resources
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Guna.UI2.dll
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.vbproj.CopyComplete
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Supplier.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Materails.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.mainorder.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Form4.resources
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.Shared.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\stdole.dll
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Crystal.resources
+C:\projectVb\Vb\resturent\resturent\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Allmenu.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.SupplierReport.resources
+C:\projectVb\Vb\resturent\resturent\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\EnvDTE.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\Microsoft.MSXML.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.dashboard.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Delivery.resources
+C:\projectVb\Vb\resturent\resturent\obj\Debug\resturent.Information.resources
+D:\Vb4\resturent\resturent\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Vb4\resturent\resturent\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Vb4\resturent\resturent\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Vb4\resturent\resturent\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Vb4\resturent\resturent\bin\Debug\resturent.exe.config
+D:\Vb4\resturent\resturent\bin\Debug\resturent.exe
+D:\Vb4\resturent\resturent\bin\Debug\resturent.pdb
+D:\Vb4\resturent\resturent\bin\Debug\resturent.xml
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.Shared.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Vb4\resturent\resturent\bin\Debug\Guna.UI2.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Vb4\resturent\resturent\bin\Debug\EnvDTE.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Vb4\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Vb4\resturent\resturent\bin\Debug\stdole.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Vb4\resturent\resturent\bin\Debug\Microsoft.MSXML.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Vb4\resturent\resturent\obj\Debug\resturent.vbproj.AssemblyReference.cache
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Allmenu.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.attendance.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.category.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Crystal.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.customer.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.dashboard.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Delivery.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.drink.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.food.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Form1.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.form2.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Form3.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Form4.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Formop.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Information.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Item.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.login2.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.mainorder.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Materails.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Resources.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.offer.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.orders.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.position.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.reservation.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.resevrin.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Staff.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.staffin.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Supplier.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.SupplierReport.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.Table.resources
+D:\Vb4\resturent\resturent\obj\Debug\resturent.vbproj.GenerateResource.cache
+D:\Vb4\resturent\resturent\obj\Debug\resturent.vbproj.CoreCompileInputs.cache
+D:\Vb4\resturent\resturent\obj\Debug\resturent.vbproj.CopyComplete
+D:\Vb4\resturent\resturent\obj\Debug\resturent.exe
+D:\Vb4\resturent\resturent\obj\Debug\resturent.xml
+D:\Vb4\resturent\resturent\obj\Debug\resturent.pdb
+C:\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\resturent.exe.config
+C:\Vb4 original\resturent\resturent\bin\Debug\resturent.exe
+C:\Vb4 original\resturent\resturent\bin\Debug\resturent.pdb
+C:\Vb4 original\resturent\resturent\bin\Debug\resturent.xml
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.Shared.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Guna.UI2.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\EnvDTE.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\stdole.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\Microsoft.MSXML.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.AssemblyReference.cache
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Allmenu.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.attendance.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.category.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Crystal.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.customer.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.dashboard.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Delivery.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.drink.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.food.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Form1.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.form2.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Form3.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Form4.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Formop.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Information.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Item.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.login2.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.mainorder.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Materails.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Resources.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.offer.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.orders.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.position.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.reservation.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.resevrin.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Staff.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.staffin.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Supplier.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.SupplierReport.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Table.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.GenerateResource.cache
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.CoreCompileInputs.cache
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.CopyComplete
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.exe
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.xml
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.pdb
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Uptable.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.crystal22.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.uptable2.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.uptable3.resources
+C:\Vb4 original\resturent\resturent\obj\Debug\resturent.Form5.resources
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\resturent.exe.config
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\resturent.exe
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\resturent.pdb
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\resturent.xml
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.Shared.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Guna.UI2.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\EnvDTE.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\stdole.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\Microsoft.MSXML.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.AssemblyReference.cache
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Allmenu.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.attendance.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.category.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Crystal.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.crystal22.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.customer.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.dashboard.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Delivery.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.drink.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.EmployeeRepor.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.food.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Form1.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.form2.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Form3.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Form4.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Form5.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Formop.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Information.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Item.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.login2.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.mainorder.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Materails.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Resources.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.offer.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.orders.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.position.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.reservation.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.resevrin.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Staff.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.staffin.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Supplier.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.SupplierReport.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Table.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.Uptable.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.uptable2.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.uptable3.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.GenerateResource.cache
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.CoreCompileInputs.cache
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.vbproj.CopyComplete
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.exe
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.xml
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.pdb
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.AlReport.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.ProfitRepor.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.expenrepor.resources
+C:\new vb copy\Vb4 original\resturent\resturent\obj\Debug\resturent.StaffDVG.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\resturent.exe.config
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\resturent.exe
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\resturent.pdb
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\resturent.xml
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.Shared.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Guna.UI2.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\EnvDTE.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\stdole.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\Microsoft.MSXML.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.vbproj.AssemblyReference.cache
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Allmenu.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.AlReport.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.attendance.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.category.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Crystal.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.crystal22.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.customer.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.dashboard.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Delivery.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.drink.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.EmployeeRepor.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.expenrepor.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.food.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Form1.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.form2.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Form3.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Form4.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Form5.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Formop.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Information.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Item.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.login2.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.mainorder.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Materails.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Resources.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.offer.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.orders.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.position.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.ProfitRepor.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.reservation.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.resevrin.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Staff.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.StaffDVG.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.staffin.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Supplier.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.SupplierReport.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Table.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.Uptable.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.uptable2.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.uptable3.resources
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.vbproj.GenerateResource.cache
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.vbproj.CoreCompileInputs.cache
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.vbproj.CopyComplete
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.exe
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.xml
+C:\new vb copy\Vb4 original - Copy (4)\resturent\resturent\obj\Debug\resturent.pdb
